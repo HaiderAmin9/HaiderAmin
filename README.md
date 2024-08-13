@@ -45,3 +45,5 @@ I have mastered web application hacking, including advanced techniques such as S
 ## Projects
 - Conducted Security Audits
 - Incident Report Analysis
+- Linux File Ownership and Permissions
+- SQL Filtering and Security Investigation Report
