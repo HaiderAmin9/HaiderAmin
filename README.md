@@ -47,3 +47,4 @@ I have mastered web application hacking, including advanced techniques such as S
 - Incident Report Analysis
 - Linux File Ownership and Permissions
 - SQL Filtering and Security Investigation Report
+- Network Asset Management 
