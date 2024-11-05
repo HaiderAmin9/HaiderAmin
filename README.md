@@ -13,9 +13,10 @@ I have mastered web application hacking, including advanced techniques such as S
 | Web Application Hacking (SSRF, SQL Injection, CSRF, API Hacking) |
 | Penetration Testing and Red Teaming               |
 | Hands-on Experience with Metasploit, Nmap, Burp Suite, John the Ripper |
-| Programming Proficiency in C++ and SQL            |
+| Programming Proficiency in python, bash scritping and SQL            |
 | Advanced Command Line Skills                      |
-| Understanding of Cybersecurity and Networking Topologies |
+| Understanding of Cybersecurity and Networking Topologies
+|incident response ,vulnerbility assisment 
 
 ## Tools
 
