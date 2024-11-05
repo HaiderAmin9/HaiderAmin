@@ -14,15 +14,19 @@ Through a blend of technical knowledge and analytical precision, I strive to pro
 
 ## Skills
 
-| Skill                                             |
+|                                            |
 |---------------------------------------------------|
-| Web Application Hacking (SSRF, SQL Injection, CSRF, API Hacking) |
-| Penetration Testing and Red Teaming               |
-| Hands-on Experience with Metasploit, Nmap, Burp Suite, John the Ripper |
-| Programming Proficiency in python, bash scritping and SQL            |
-| Advanced Command Line Skills                      |
-| Understanding of Cybersecurity and Networking Topologies
-|incident response ,vulnerbility assisment 
+| 
+Web Application Hacking: SSRF, SQL Injection, CSRF, Authentication Bypass, Brute Force, Race Condition, File Upload, Privilege Escalation, Clickjacking, Command Injection, Business Logic Vulnerabilities
+Penetration Testing and Red Teaming
+Tools: Metasploit, Nmap, Burp Suite, John the Ripper
+Programming Languages: C++, SQL, Python, Bash Scripting
+Command Line Proficiency
+Cybersecurity and Networking Topologies
+Digital Forensics: Autopsy, Forensics Imager
+Incident Response: SIEM Tools (Google Chronicle, Wazuh)
+Vulnerability Assessment and Reporting
+ 
 
 ## Tools
 
