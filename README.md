@@ -4,7 +4,13 @@
 
 ## Objective
 
-I have mastered web application hacking, including advanced techniques such as SSRF, SQL Injection, CSRF, and API hacking. My expertise extends to penetration testing and red teaming, allowing me to effectively understand and address security vulnerabilities. I have hands-on experience with industry-standard tools such as Metasploit, Nmap, Burp Suite, and John the Ripper. My programming proficiency in C++ and SQL enhances my ability to analyze and manipulate code for security purposes. Additionally, I have advanced command line skills and a thorough understanding of various cybersecurity and networking topologies. My technical knowledge, combined with an analytical mindset, enables me to approach security challenges with precision.
+As a seasoned cybersecurity professional, I have honed my skills in advanced web application hacking techniques, including SSRF, SQL Injection, CSRF,authication bypass, brute force , race condition, file upload , privilage escaltion , click hjacking , command injection and  Business logic . My expertise spans both penetration testing and red teaming, equipping me to comprehensively identify, assess, and address security vulnerabilities. With a hands-on approach, I leverage industry-standard tools such as Metasploit, Nmap, Burp Suite, and John the Ripper to conduct thorough vulnerability assessments and exploit testing.
+
+My programming proficiency in Bash scripting, Python, and SQL enhances my ability to analyze and manipulate code, which is critical for security audits and threat analysis. I am also adept with command-line interfaces and have an in-depth understanding of diverse cybersecurity and networking architectures, enabling efficient and precise handling of complex security challenges.
+
+Beyond offensive security, I am well-versed in incident response, using SIEM tools like Google Chronicle and Wazuh to detect, investigate, and manage security incidents. My digital forensics expertise further complements my skills, with experience using tools such as Autopsy and Forensics Imager to analyze, recover, and secure critical data in forensic investigations. My experience in creating detailed vulnerability assessment reports and conducting security audits reinforces my commitment to maintaining robust, proactive security defenses.
+
+Through a blend of technical knowledge and analytical precision, I strive to provide strategic insights and solutions that fortify organizational resilience against evolving cyber threats.
 
 ## Skills
 
