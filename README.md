@@ -30,8 +30,9 @@ I have mastered web application hacking, including advanced techniques such as S
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-5A67D8?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
+
 
 ### Digital Forensics
 <div>
